@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Latihan Laravel Basic
                 </div>
 
                 <div class="links">
